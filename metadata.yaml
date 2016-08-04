@@ -1,0 +1,32 @@
+_repo: The-Poisoned-Pen_5007
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reeve, Arthur B. (Arthur Benjamin)
+    alias: Reeve, Arthur Benjamin
+    birthdate: 1880
+    deathdate: 1936
+    gutenberg_agent_id: '752'
+    url: http://www.gutenberg.org/2009/agents/752
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_B._Reeve
+description: From the Craig Kennedy series.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Chemistry teachers -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The poisoned pen -- The yeggman -- The germ of death -- The firebug
+  -- The confidence king -- The sand-hog -- The white slave -- The forger -- The unofficial
+  spy -- The smuggler -- The invisible ray -- The campaign grafter.
+title: The Poisoned Pen
+url: http://www.gutenberg.org/ebooks/5007
